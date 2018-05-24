@@ -1,0 +1,6 @@
+workspace/**/.metadata
+workspace/**/.recommenders
+workspace/**/.settings
+workspace/**/target
+workspace/**/.project
+workspace/**/.classpath
